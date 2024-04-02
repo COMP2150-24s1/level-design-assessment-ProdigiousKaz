@@ -3,98 +3,99 @@
 ### Name: [Eddy Yat Long Chan]
 ### Student number: [47425083] 
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
+DocImages/1.png
 
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
+This is the original sketch/plan of the game I want to design. It is a 3 section level. The idea is that the player starts in box number 1 and as the player progresses through, they should get familiar with the movement mechanic of the game. There are various traps and monsters placed around the level/room for the player to recognise its dangers. Like at the start where there is a spike trap and a health pack next to it, it will allow the player to learn what it is.
 
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
+DocImages/2.png
 
-Example:
+The trap is placed to remind players to be aware, after passing through the spike there is a moving platform where it introduces another mechanic where it requires the player to crouch and let the platform move, after that stage they should be able to see that the only path forward is upwards and the player will be rewarded 1/3 keys for their efforts, eventually there will be checkpoints to let the player know that they are going in the right direction. I had to scratch the door idea because I want to expand the map and make it look like it has more content and less restrictions. 
 
-![This is the alt text for an image!](DocImages/exampleimage.png)
+DocImages/creeper.png
 
-## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+The second floor consists of obstacles and objects to tests the player’s understanding of the movements practiced in room 1 and the reward for completing the course is 2/3  keys, There will also be weapons placed at the start and end of room 2 for players to prepare for the increase of difficulty, The staff will be the weapon the player gets first and the gun is the second one, it is placed in such an order to teach and control what the player does. The mechanic the player learns in this level is using weapons while doing movement, the weapon can also be used to hit through objects. As for health, heal packs will be intentionally placed more frequently to ensure progression of the players.
 
-### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+This level is designed to be slightly more difficult because the spitter was intentionally placed in a place where the player cannot jump to, but combining jump with staff attack will get the job done just fine. The moving platform doesn’t go all the way to the end but it’s just enough for the player to curve around and reach the top. Once at the top the player is given a checkpoint and a chance to whack the monsters inside the acid through the walls (can be done to the other monster in the acid on the right as well), these jumps are all possible although it seems hard.
 
-### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+The method of flow is the key placements, after getting the first key it encourages the player to go forward and knowing the second key is within reach it will encourage the player to go forward no matter the difficulties as the health packs given are generous.
 
-### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+DocImages/3.png
 
-## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
+Finally, Room 3/level 3 the hardest room and the final room to the exit, in order to maintain a possible way to finish the game there are less but well placed health packs, This room mostly consists of obstacle courses and not much fighting. However the movements learned from previous rooms are combined and used in this room. The height of the room is intentionally longer, that way the player won’t have a clear visual on what the next obstacle would be. There are platforms placed to help them see clearer but crouching for a period of time will move the camera down as well. The part to advance is a moving platform that goes at a moderate speed and it’s dangerous and seemingly impossible but it is actually very easy. The cut off part of the map from the player’s perspective will hopefully encourage the player to explore. The final key is revealed at the very end, There is only 1 path so it’s impossible to get lost. There are bugs throughout the playthrough and I turned it into a feature of the game, bugs such as getting stuck in blocks because of the moving platforms. I put acid inside the blocks in case of such events the player will be reset to the checkpoint. 
 
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
 
-You should restructure the headings below to match the order they appear in your level.
-
-### 2.1. Acid
-
-### 2.2. Checkpoints
-
-### 2.3. Chompers
-
-### 2.4. Health Pickups
-
-### 2.5. Keys
-
-### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
-
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
-
-## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
+//Storyboard//
  
-### 3.1. Molecule Diagram
+DocImages/5.png
 
-### 3.2. Level Map – Section 1
+At the start, the player starts in the very left corner of room 1 and there are hearts which represents a player’s health as shown by the blue arrows on the top left, there are also 3 empty key slots on the top right of the screen as shown by the blue arrow on the right.  
 
-### 3.3.	Level Map – Section 2
+DocImages/4.png
 
-### 3.4.	Level Map – Section 3
+To advance in the game the player needs to use the jump key and make their way around the obstacles to reach the next area to proceed. 
 
-## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+DocImages/6.png
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+These are health packs and they are placed all around the map for the player to Interact and take to heal up the health they’ve lost.
 
-## Generative AI Use Acknowledgement
+DocImages/7.png
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
+These are spike traps and they are placed all around the map, when touched the player loses 1 health point and becomes invincible for 1 second. 
+
+DocImages/8.png
+
+The circled in red is a moving platform, it helps players get to places efficiently and effortlessly, can be combined with crouch.
+
+DocImages/9.png
+
+This is “acid” it takes away 1 health point from the player and resets the player back to the last checkpoint. 
+
+DocImages/10.png
+
+The item circled in red is a key, this is 1/3 keys needed to open the exit door to escape this dungeon. The player will need 3/3 keys to complete the dungeon.
+
+DocImages/11.png
+
+This is a checkpoint activator, when near it will automatically activate the checkpoint so in the event of the player dying, they will respawn here.
+
+DocImages/13.png
+
+This is something the player can loot f, there could be various weapons gained by walking up and collecting them.
+
+DocImages/14.png
+
+This monster is a “spitter”, they can attack the player at long range. It deals 1 health point and deals knockback, it grants the player 1 second of invincibility. 
+
+DocImages/15.png
+
+Attacking can be used to attack enemies, it launches the player slightly forward and it takes out the enemy instantly.
+
+DocImages/16.png
+
+This monster is a “chomper” . It does close range melee damage, it deals 1 health point and deals knockback, it grants the player 1 second of invincibility. 
+
+DocImages/17.png
+
+The platform the player is standing on in the image is a pass through platform, simply pressing s and jumping will allow the player to phase through.
+
+DocImages/18.png
+
+This is the exit door, after collecting 3 keys that means that the player has completed all the trials of the dungeon and therefore granted to leave player can gain access to the final door and leave the dungeon safely.
 
 
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
+//Molecule Diagram//
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
+DocImages/molecule-diagram.png
 
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
+Reflection
 
-### Tool Used: Example
-**Nature of Use** Example Text
 
-**Evidence Attached?** Example Text
+Iterative design improves my level design because it is a pattern that players can get comfortable and get use to, it contributes to the advancement of the game as the player can try over and over to hone their skills without the need to worry about needing or finding another way to deal with situations presented in front of them.  After repeatedly fixing and improving the game, everything started to piece together and a lot more creations were implemented. When the game was first created there were a lot of errors, like when the rooms don’t look right or when the moving platforms can lead to a player being stuck and therefore cannot progress, I have to find ways to counter or change the design completely to fit what i'm looking for. 
 
-**Additional Notes:** Example Text
+I had an idea of having each level be unlocked by a door with a different key, but later on the map looked too small so I decided to change it into something bigger and require much more to achieve, it was through iterative design I was able to create the map I have now. There was also a part I made way too difficult so after some refining it was back to moderate just how it was supposed to be. At the beginning I put the trap way too close to the ceiling and it made the trap unavoidable so I had to change the map layout for it to work. There was acid placement where I was stacking a whole bunch and it didn’t look as clean as I thought so after a few more tries I managed to change the size through an inspector in unity. In the third level the original acid pool at the bottom wasn’t that small but after realizing I can't get through the level without minimizing the size, I changed the layout and made it work. 
+
+In conclusion, Iterative design helps improve designs because through trial, mistakes will be noticed and taken care of and different ideas over time will come up for use, during the making of the game there was lots of problems solved and modified and without iterative designing the game won’t be playable because the character would just get stuck. Play testing is also important as it can provide a better visual of problems that may occur and it could be noted down and looked after. 
+
 
 
