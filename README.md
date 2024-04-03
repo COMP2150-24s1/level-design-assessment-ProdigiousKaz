@@ -3,6 +3,7 @@
 ### Name: [Eddy Yat Long Chan]
 ### Student number: [47425083] 
 
+
 ![1](DocImages/1.png)
 
 This is the original sketch/plan of the game I want to design. It is a 3 section level. The idea is that the player starts in box number 1 and as the player progresses through, they should get familiar with the movement mechanic of the game. There are various traps and monsters placed around the level/room for the player to recognise its dangers. Like at the start where there is a spike trap and a health pack next to it, it will allow the player to learn what it is.
@@ -29,7 +30,7 @@ Finally, Room 3/level 3 the hardest room and the final room to the exit, in orde
  
 ![5](DocImages/5.png)
 
-At the start, the player starts in the very left corner of room 1 and there are hearts which represents a player’s health as shown by the blue arrows on the top left, there are also 3 empty key slots on the top right of the screen as shown by the blue arrow on the right.  
+At the beginnin, the player starts in the very left corner of room 1 and there are hearts which represents a player’s health as shown by the blue arrows on the top left, there are also 3 empty key slots on the top right of the screen as shown by the blue arrow on the right.  
 
 ![4](DocImages/4.png)
 
@@ -88,7 +89,7 @@ This is the exit door, after collecting 3 keys that means that the player has co
 
 DocImages/molecule-diagram.png
 
-Reflection
+Reflection 
 
 
 Iterative design improves my level design because it is a pattern that players can get comfortable and get use to, it contributes to the advancement of the game as the player can try over and over to hone their skills without the need to worry about needing or finding another way to deal with situations presented in front of them.  After repeatedly fixing and improving the game, everything started to piece together and a lot more creations were implemented. When the game was first created there were a lot of errors, like when the rooms don’t look right or when the moving platforms can lead to a player being stuck and therefore cannot progress, I have to find ways to counter or change the design completely to fit what i'm looking for. 
