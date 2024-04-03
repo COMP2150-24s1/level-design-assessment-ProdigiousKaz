@@ -20,66 +20,66 @@ This level is designed to be slightly more difficult because the spitter was int
 
 The method of flow is the key placements, after getting the first key it encourages the player to go forward and knowing the second key is within reach it will encourage the player to go forward no matter the difficulties as the health packs given are generous.
 
-![3](DocImages/<3.png>)
+![3](DocImages/3.png)
 
 Finally, Room 3/level 3 the hardest room and the final room to the exit, in order to maintain a possible way to finish the game there are less but well placed health packs, This room mostly consists of obstacle courses and not much fighting. However the movements learned from previous rooms are combined and used in this room. The height of the room is intentionally longer, that way the player won’t have a clear visual on what the next obstacle would be. There are platforms placed to help them see clearer but crouching for a period of time will move the camera down as well. The part to advance is a moving platform that goes at a moderate speed and it’s dangerous and seemingly impossible but it is actually very easy. The cut off part of the map from the player’s perspective will hopefully encourage the player to explore. The final key is revealed at the very end, There is only 1 path so it’s impossible to get lost. There are bugs throughout the playthrough and I turned it into a feature of the game, bugs such as getting stuck in blocks because of the moving platforms. I put acid inside the blocks in case of such events the player will be reset to the checkpoint. 
 
 
 //Storyboard//
  
-![5](DocImages/<5.png>)
+![5](DocImages/5.png)
 
 At the start, the player starts in the very left corner of room 1 and there are hearts which represents a player’s health as shown by the blue arrows on the top left, there are also 3 empty key slots on the top right of the screen as shown by the blue arrow on the right.  
 
-![4](DocImages/<4.png>)
+![4](DocImages/4.png)
 
 To advance in the game the player needs to use the jump key and make their way around the obstacles to reach the next area to proceed. 
 
-![6](DocImages/<6.png>)
+![6](DocImages/6.png)
 
 These are health packs and they are placed all around the map for the player to Interact and take to heal up the health they’ve lost.
 
-![7](DocImages/<7.png>)
+![7](DocImages/7.png)
 
 These are spike traps and they are placed all around the map, when touched the player loses 1 health point and becomes invincible for 1 second. 
 
-![8](DocImages/<8.png>)
+![8](DocImages/8.png)
 
 The circled in red is a moving platform, it helps players get to places efficiently and effortlessly, can be combined with crouch.
 
-![9](DocImages/<9.png>)
+![9](DocImages/9.png)
 
 This is “acid” it takes away 1 health point from the player and resets the player back to the last checkpoint. 
 
-![10](DocImages/<10.png>)
+![10](DocImages/10.png)
 
 The item circled in red is a key, this is 1/3 keys needed to open the exit door to escape this dungeon. The player will need 3/3 keys to complete the dungeon.
 
-![11](DocImages/<11.png>)
+![11](DocImages/11.png)
 
 This is a checkpoint activator, when near it will automatically activate the checkpoint so in the event of the player dying, they will respawn here.
 
-![13](DocImages/<13.png>)
+![13](DocImages/13.png)
 
 This is something the player can loot f, there could be various weapons gained by walking up and collecting them.
 
-![14](DocImages/<14.png>)
+![14](DocImages/14.png)
 
 This monster is a “spitter”, they can attack the player at long range. It deals 1 health point and deals knockback, it grants the player 1 second of invincibility. 
 
-![15](DocImages/<15.png>)
+![15](DocImages/15.png)
 
 Attacking can be used to attack enemies, it launches the player slightly forward and it takes out the enemy instantly.
 
-![16](DocImages/<16.png>)
+![16](DocImages/16.png)
 
 This monster is a “chomper” . It does close range melee damage, it deals 1 health point and deals knockback, it grants the player 1 second of invincibility. 
 
-![17](DocImages/<17.png>)
+![17](DocImages/17.png)
 
 The platform the player is standing on in the image is a pass through platform, simply pressing s and jumping will allow the player to phase through.
 
-![18](DocImages/<18.png>)
+![18](DocImages/18.png)
 
 This is the exit door, after collecting 3 keys that means that the player has completed all the trials of the dungeon and therefore granted to leave player can gain access to the final door and leave the dungeon safely.
 
