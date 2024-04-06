@@ -87,13 +87,13 @@ This is the exit door, after collecting 3 keys that means that the player has co
 
 //Molecule Diagram//
 
-DocImages/molecule-diagram.png
+DocImages/molecule.png
 
-DocImages/Drawing.png
+DocImages/Level1.png
 
-DocImages/Drawing (1).png
+DocImages/Level2.png
 
-DocImages/Drawing (2).png
+DocImages/Level3.png
 
 Reflection 
 
