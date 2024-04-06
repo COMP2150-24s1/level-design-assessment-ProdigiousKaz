@@ -89,6 +89,12 @@ This is the exit door, after collecting 3 keys that means that the player has co
 
 DocImages/molecule-diagram.png
 
+DocImages/Drawing.png
+
+DocImages/Drawing (1).png
+
+DocImages/Drawing (2).png
+
 Reflection 
 
 
