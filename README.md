@@ -6,7 +6,7 @@
 
 ![1](DocImages/1.png)
 
-This is the original sketch/plan of the game I want to design. It is a 3 section level. The idea is that the player starts in box number 1 and as the player progresses through, they should get familiar with the movement mechanic of the game. There are various traps and monsters placed around the level/room for the player to recognise its dangers. Like at the start where there is a spike trap and a health pack next to it, it will allow the player to learn what it is.
+This is the original sketch/plan of the game I want to design. It is a 3 section level. The idea is that the player starts in box number 1 and as the player progresses through, they should get familiar with the movement mechanic of the game. There are various traps and monsters placed around the level/room for the player to recognise its dangers. Like at the start where there is a spike trap and a health pack next to it, it will allow the player to learn what it is. 
 
 ![2](DocImages/2.png)
 
