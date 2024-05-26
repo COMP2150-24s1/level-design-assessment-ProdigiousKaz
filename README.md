@@ -5,10 +5,10 @@
 
 
 ![1](DocImages/1.png)
+![2](DocImages/2.png)
 
 This is the original sketch/plan of the game I want to design. It is a 3 section level. The idea is that the player starts in box number 1 and as the player progresses through, they should get familiar with the movement mechanic of the game. There are various traps and monsters placed around the level/room for the player to recognise its dangers. Like at the start where there is a spike trap and a health pack next to it, it will allow the player to learn what it is.
 
-![2](DocImages/2.png)
 
 The trap is placed to remind players to be aware, after passing through the spike there is a moving platform where it introduces another mechanic where it requires the player to crouch and let the platform move, after that stage they should be able to see that the only path forward is upwards and the player will be rewarded 1/3 keys for their efforts, eventually there will be checkpoints to let the player know that they are going in the right direction. I had to scratch the door idea because I want to expand the map and make it look like it has more content and less restrictions. 
 
